@@ -1,0 +1,63 @@
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\bin\Debug\App.xbf
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\bin\Debug\MainPage.xbf
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\bin\Debug\WorldClock.exe
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\bin\Debug\WorldClock.pdb
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\bin\Debug\resources.pri
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\bin\Debug\AppxManifest.xml
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\bin\Debug\WorldClock.build.appxrecipe
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\obj\Debug\App.g.i.cs
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\obj\Debug\App.g.cs
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\obj\Debug\MainPage.g.i.cs
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\obj\Debug\MainPage.g.cs
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\obj\Debug\XamlTypeInfo.g.cs
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\obj\Debug\App.xaml
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\obj\Debug\App.xbf
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\obj\Debug\XamlSaveStateFile.xml
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\obj\Debug\MainPage.xaml
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\obj\Debug\MainPage.xbf
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\obj\Debug\WorldClock.exe
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\obj\Debug\WorldClock.pdb
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\obj\Debug\priconfig.xml
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\obj\Debug\priconfig.xml.intermediate
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\obj\Debug\layout.resfiles
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\obj\Debug\layout.resfiles.intermediate
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\obj\Debug\resources.resfiles
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\obj\Debug\resources.resfiles.intermediate
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\obj\Debug\pri.resfiles
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\obj\Debug\pri.resfiles.intermediate
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\obj\Debug\qualifiers.txt
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\obj\Debug\qualifiers.txt.intermediate
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\ib user\documents\visual studio 2013\Projects\WorldClock\WorldClock\obj\Debug\ProjectArchitectures.txt
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\bin\Debug\App.xbf
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\bin\Debug\MainPage.xbf
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\bin\Debug\WorldClock.exe
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\bin\Debug\WorldClock.pdb
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\bin\Debug\resources.pri
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\bin\Debug\AppxManifest.xml
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\bin\Debug\WorldClock.build.appxrecipe
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\App.g.i.cs
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\MainPage.g.i.cs
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\MainPage.g.cs
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\XamlTypeInfo.g.cs
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\App.xaml
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\MainPage.xaml
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\App.xbf
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\MainPage.xbf
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\XamlSaveStateFile.xml
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\WorldClock.exe
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\WorldClock.pdb
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\priconfig.xml
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\priconfig.xml.intermediate
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\layout.resfiles
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\layout.resfiles.intermediate
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\resources.resfiles
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\resources.resfiles.intermediate
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\pri.resfiles
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\pri.resfiles.intermediate
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\qualifiers.txt
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\qualifiers.txt.intermediate
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\ProjectArchitectures.txt
+D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\bin\Debug\WorldClock.xr.xml
