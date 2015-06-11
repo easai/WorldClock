@@ -7,50 +7,50 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>f2d88741-a005-4222-97b3-9f01fa496419</PackageIdentityName>
-    <IntermediateOutputPath>D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\Documents\GitHub\WorldClock\WorldClock\obj\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="D:\Documents\GitHub\WorldClock\WorldClock\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\bin\Debug\WorldClock.exe">
+    <AppxPackagedFile Include="D:\Documents\GitHub\WorldClock\WorldClock\bin\Debug\WorldClock.exe">
       <PackagePath>WorldClock.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\Assets\clock-150x150.scale-100.png">
+    <AppxPackagedFile Include="D:\Documents\GitHub\WorldClock\WorldClock\Assets\clock-150x150.scale-100.png">
       <PackagePath>Assets\clock-150x150.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\Assets\clock-splash.png">
+    <AppxPackagedFile Include="D:\Documents\GitHub\WorldClock\WorldClock\Assets\clock-splash.png">
       <PackagePath>Assets\clock-splash.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="D:\Documents\GitHub\WorldClock\WorldClock\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\Documents\GitHub\WorldClock\WorldClock\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="D:\Documents\GitHub\WorldClock\WorldClock\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\Documents\GitHub\WorldClock\WorldClock\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="D:\Documents\GitHub\WorldClock\WorldClock\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="D:\Documents\GitHub\WorldClock\WorldClock\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\bin\Debug\WorldClock.xr.xml">
+    <AppxPackagedFile Include="D:\Documents\GitHub\WorldClock\WorldClock\bin\Debug\WorldClock.xr.xml">
       <PackagePath>WorldClock.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="D:\Documents\GitHub\WorldClock\WorldClock\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

@@ -61,3 +61,35 @@ D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\qualifi
 D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\obj\Debug\ProjectArchitectures.txt
 D:\Documents\Visual Studio 2013\Projects\WorldClock\WorldClock\bin\Debug\WorldClock.xr.xml
+D:\Documents\GitHub\WorldClock\WorldClock\obj\Debug\App.g.i.cs
+D:\Documents\GitHub\WorldClock\WorldClock\obj\Debug\App.g.cs
+D:\Documents\GitHub\WorldClock\WorldClock\obj\Debug\MainPage.g.i.cs
+D:\Documents\GitHub\WorldClock\WorldClock\obj\Debug\MainPage.g.cs
+D:\Documents\GitHub\WorldClock\WorldClock\obj\Debug\XamlTypeInfo.g.cs
+D:\Documents\GitHub\WorldClock\WorldClock\obj\Debug\App.xaml
+D:\Documents\GitHub\WorldClock\WorldClock\obj\Debug\MainPage.xaml
+D:\Documents\GitHub\WorldClock\WorldClock\obj\Debug\App.xbf
+D:\Documents\GitHub\WorldClock\WorldClock\obj\Debug\MainPage.xbf
+D:\Documents\GitHub\WorldClock\WorldClock\obj\Debug\XamlSaveStateFile.xml
+D:\Documents\GitHub\WorldClock\WorldClock\obj\Debug\WorldClock.exe
+D:\Documents\GitHub\WorldClock\WorldClock\obj\Debug\WorldClock.pdb
+D:\Documents\GitHub\WorldClock\WorldClock\bin\Debug\App.xbf
+D:\Documents\GitHub\WorldClock\WorldClock\bin\Debug\MainPage.xbf
+D:\Documents\GitHub\WorldClock\WorldClock\bin\Debug\WorldClock.xr.xml
+D:\Documents\GitHub\WorldClock\WorldClock\bin\Debug\WorldClock.exe
+D:\Documents\GitHub\WorldClock\WorldClock\bin\Debug\WorldClock.pdb
+D:\Documents\GitHub\WorldClock\WorldClock\bin\Debug\resources.pri
+D:\Documents\GitHub\WorldClock\WorldClock\bin\Debug\AppxManifest.xml
+D:\Documents\GitHub\WorldClock\WorldClock\bin\Debug\WorldClock.build.appxrecipe
+D:\Documents\GitHub\WorldClock\WorldClock\obj\Debug\priconfig.xml
+D:\Documents\GitHub\WorldClock\WorldClock\obj\Debug\priconfig.xml.intermediate
+D:\Documents\GitHub\WorldClock\WorldClock\obj\Debug\layout.resfiles
+D:\Documents\GitHub\WorldClock\WorldClock\obj\Debug\layout.resfiles.intermediate
+D:\Documents\GitHub\WorldClock\WorldClock\obj\Debug\resources.resfiles
+D:\Documents\GitHub\WorldClock\WorldClock\obj\Debug\resources.resfiles.intermediate
+D:\Documents\GitHub\WorldClock\WorldClock\obj\Debug\pri.resfiles
+D:\Documents\GitHub\WorldClock\WorldClock\obj\Debug\pri.resfiles.intermediate
+D:\Documents\GitHub\WorldClock\WorldClock\obj\Debug\qualifiers.txt
+D:\Documents\GitHub\WorldClock\WorldClock\obj\Debug\qualifiers.txt.intermediate
+D:\Documents\GitHub\WorldClock\WorldClock\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Documents\GitHub\WorldClock\WorldClock\obj\Debug\ProjectArchitectures.txt
